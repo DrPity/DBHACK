@@ -9,9 +9,9 @@ or take a look here:
 
 https://github.com/feross/SpoofMAC
 
-the just simply run:
+then just simply run:
 
-```pyhton bahn.py```
+```python bahn.py```
 
 Here you go :P
 
