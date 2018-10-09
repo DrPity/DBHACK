@@ -11,7 +11,7 @@ https://github.com/feross/SpoofMAC
 
 then just simply run:
 
-```python bahn.py```
+```sudo python bahn.py```
 
 Here you go :P
 
